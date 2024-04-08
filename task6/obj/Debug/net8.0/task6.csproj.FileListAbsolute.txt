@@ -1,0 +1,15 @@
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.AssemblyInfoInputs.cache
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.AssemblyInfo.cs
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.sourcelink.json
+C:\Users\Алмаз\Desktop\Csharp\task6\bin\Debug\net8.0\task6.exe
+C:\Users\Алмаз\Desktop\Csharp\task6\bin\Debug\net8.0\task6.deps.json
+C:\Users\Алмаз\Desktop\Csharp\task6\bin\Debug\net8.0\task6.runtimeconfig.json
+C:\Users\Алмаз\Desktop\Csharp\task6\bin\Debug\net8.0\task6.dll
+C:\Users\Алмаз\Desktop\Csharp\task6\bin\Debug\net8.0\task6.pdb
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.dll
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\refint\task6.dll
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.pdb
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\task6.genruntimeconfig.cache
+C:\Users\Алмаз\Desktop\Csharp\task6\obj\Debug\net8.0\ref\task6.dll
