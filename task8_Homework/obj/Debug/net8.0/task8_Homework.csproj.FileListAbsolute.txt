@@ -1,0 +1,15 @@
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.AssemblyInfoInputs.cache
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.AssemblyInfo.cs
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.sourcelink.json
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\bin\Debug\net8.0\task8_Homework.exe
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\bin\Debug\net8.0\task8_Homework.deps.json
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\bin\Debug\net8.0\task8_Homework.runtimeconfig.json
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\bin\Debug\net8.0\task8_Homework.dll
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\bin\Debug\net8.0\task8_Homework.pdb
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.dll
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\refint\task8_Homework.dll
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.pdb
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\task8_Homework.genruntimeconfig.cache
+C:\Users\Алмаз\Desktop\Csharp\task8_Homework\obj\Debug\net8.0\ref\task8_Homework.dll
