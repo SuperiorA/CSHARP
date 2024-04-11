@@ -88,7 +88,7 @@ while (number >= 10)
         {
         int currentnumber = number % 10;
         number = number / 10;
-        System.Console.WriteLine(currentnumber + ",");
+        System.Console.Write(currentnumber + ",");
         }
     }
 if (number < 10)

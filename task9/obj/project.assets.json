@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\CODING облако знаний\\Csharp\\task1\\task1.csproj",
-      "projectName": "task1",
-      "projectPath": "Z:\\CODING облако знаний\\Csharp\\task1\\task1.csproj",
+      "projectUniqueName": "Z:\\CODING облако знаний\\Csharp\\task9\\task9.csproj",
+      "projectName": "task9",
+      "projectPath": "Z:\\CODING облако знаний\\Csharp\\task9\\task9.csproj",
       "packagesPath": "C:\\Users\\Алмаз\\.nuget\\packages\\",
-      "outputPath": "Z:\\CODING облако знаний\\Csharp\\task1\\obj\\",
+      "outputPath": "Z:\\CODING облако знаний\\Csharp\\task9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Алмаз\\AppData\\Roaming\\NuGet\\NuGet.Config"

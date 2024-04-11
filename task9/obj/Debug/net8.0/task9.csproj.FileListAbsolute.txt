@@ -1,0 +1,15 @@
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.AssemblyInfoInputs.cache
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.AssemblyInfo.cs
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.csproj.CoreCompileInputs.cache
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.sourcelink.json
+Z:\CODING облако знаний\Csharp\task9\bin\Debug\net8.0\task9.exe
+Z:\CODING облако знаний\Csharp\task9\bin\Debug\net8.0\task9.deps.json
+Z:\CODING облако знаний\Csharp\task9\bin\Debug\net8.0\task9.runtimeconfig.json
+Z:\CODING облако знаний\Csharp\task9\bin\Debug\net8.0\task9.dll
+Z:\CODING облако знаний\Csharp\task9\bin\Debug\net8.0\task9.pdb
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.dll
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\refint\task9.dll
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.pdb
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\task9.genruntimeconfig.cache
+Z:\CODING облако знаний\Csharp\task9\obj\Debug\net8.0\ref\task9.dll
